@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>checkbox_privacy_policy</name>
+   <tag></tag>
+   <elementGuidId>f0db3fd8-89b6-41ba-91ad-5f474c08ff8a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-dkPtyc.ddoSIT.sc-hiwReK.kBgClj</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id=&quot;ok-check&quot;][@type=&quot;checkbox&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ec43f2eb-90f9-43c3-8b9c-79b30ef286c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>ok-check</value>
+      <webElementGuid>51b6215e-4743-480d-8cfc-ebca998efced</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-dkPtyc ddoSIT sc-hiwReK kBgClj</value>
+      <webElementGuid>f4fe0344-d3a5-4547-b277-7afee34be060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Saya menyetujui Ketentuan dan Kebijakan Privasi di SehatQ.</value>
+      <webElementGuid>6db9973a-0a34-4ff7-a6b5-908464423182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sc-eCImvq jQnfci&quot;]/div[@class=&quot;sc-gKckTs gWJgNk&quot;]/div[@class=&quot;sc-eCImvq fRSMEk&quot;]/div[@class=&quot;sc-bqiQRQ jlvGgo&quot;]/div[@class=&quot;sc-jRQAMF eZoGMb&quot;]/div[@class=&quot;sc-eCImvq WWva&quot;]/form[1]/div[@class=&quot;sc-jgrIVw ePvUNV&quot;]/div[@class=&quot;sc-bqiQRQ bZZvNs&quot;]/div[@class=&quot;sc-jRQAMF llLrh&quot;]/label[@class=&quot;sc-nVjpj jzhAMS&quot;]/span[@class=&quot;sc-dkPtyc ddoSIT sc-hiwReK kBgClj&quot;]</value>
+      <webElementGuid>40bce23d-d19d-4ead-a734-fcc2cf79b253</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div[4]/div/div/label/span</value>
+      <webElementGuid>c42abd34-7689-4d17-91ff-b54bc8fcd95d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password minimal 6 karakter'])[1]/following::span[1]</value>
+      <webElementGuid>ef5f15c8-5312-4d96-a527-39576cff2042</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[2]</value>
+      <webElementGuid>d5dadc41-89f8-475b-8ac7-92401a95c4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/label/span</value>
+      <webElementGuid>31af8c67-97b4-4758-86b2-c28d4442695e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Saya menyetujui Ketentuan dan Kebijakan Privasi di SehatQ.' or . = 'Saya menyetujui Ketentuan dan Kebijakan Privasi di SehatQ.')]</value>
+      <webElementGuid>b7fb3f70-fc20-4000-898e-3ac18e115662</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

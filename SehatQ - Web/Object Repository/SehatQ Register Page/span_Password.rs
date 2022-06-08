@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Password</name>
+   <tag></tag>
+   <elementGuidId>08c09f81-9758-471b-8dfb-6d9e1bb64249</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-eCImvq.utEJO > div.sc-ezbkgU.dGZnUN > label.sc-kLwgWK.hgqcHT > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div[3]/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>abc5cd69-53f9-4d32-a6d1-b5b007c64692</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>f6dc8c45-cf8a-46eb-bd57-ec041f750b54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sc-eCImvq jQnfci&quot;]/div[@class=&quot;sc-gKckTs gWJgNk&quot;]/div[@class=&quot;sc-eCImvq fRSMEk&quot;]/div[@class=&quot;sc-bqiQRQ jlvGgo&quot;]/div[@class=&quot;sc-jRQAMF eZoGMb&quot;]/div[@class=&quot;sc-eCImvq WWva&quot;]/form[1]/div[@class=&quot;sc-eCImvq utEJO&quot;]/div[@class=&quot;sc-ezbkgU dGZnUN&quot;]/label[@class=&quot;sc-kLwgWK hgqcHT&quot;]/span[1]</value>
+      <webElementGuid>681d4548-3f91-43c1-b1f1-7d687f343af2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div[2]/div/form/div[3]/div/label/span</value>
+      <webElementGuid>1453d356-c9fb-437b-8ed4-6db3d532ae9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[1]</value>
+      <webElementGuid>568e5509-2cee-47df-b025-fb784b7ace48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Lengkap'])[1]/following::span[2]</value>
+      <webElementGuid>3510366c-8d48-4cb0-a480-56f7ce7b7a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password minimal 6 karakter'])[1]/preceding::span[1]</value>
+      <webElementGuid>24e9165d-99a4-464f-980e-3b760e634c50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password']/parent::*</value>
+      <webElementGuid>34e7c2e6-af77-4cb8-95d1-9b02870421aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label/span</value>
+      <webElementGuid>803f5b66-0835-4b6f-a27a-060c290ed6ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Password' or . = 'Password')]</value>
+      <webElementGuid>d01d634f-65b2-4a95-b0d6-8c7c5a493a40</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

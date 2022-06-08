@@ -1,1 +1,1 @@
-# katalon-studio-web
+# katalon-studio

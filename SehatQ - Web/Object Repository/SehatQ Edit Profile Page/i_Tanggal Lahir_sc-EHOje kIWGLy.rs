@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Tanggal Lahir_sc-EHOje kIWGLy</name>
+   <tag></tag>
+   <elementGuidId>1c1d7001-4673-4037-a730-7e60d717203f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div/div/label/div/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.sc-EHOje.kIWGLy</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f4d23496-8e13-47f9-ba47-444656aee2b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-EHOje kIWGLy</value>
+      <webElementGuid>ca3f9e91-750a-4ab3-9ca0-b605ab8d8e7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sc-htpNat gIgHYH&quot;]/div[@class=&quot;sc-kGXeez bhTbbt&quot;]/div[@class=&quot;sc-dxgOiQ fHkFff&quot;]/div[@class=&quot;sc-ckVGcZ oGkLh&quot;]/div[@class=&quot;sc-dxgOiQ hTWzHs&quot;]/div[@class=&quot;sc-ckVGcZ ecObdJ&quot;]/div[@class=&quot;sc-htpNat mZALI&quot;]/div[@class=&quot;sc-htpNat jHFyUa&quot;]/div[@class=&quot;sc-htpNat fpKDVR&quot;]/div[@class=&quot;sc-htpNat hwkvNk&quot;]/div[@class=&quot;sc-eerKOB dVJNeJ&quot;]/div[@class=&quot;sc-eHgmQL jmRwVk&quot;]/label[@class=&quot;sc-jWBwVP ieWIjH&quot;]/div[@class=&quot;sc-cMljjf eBDxhq&quot;]/button[@class=&quot;sc-bxivhb fwsZAM sc-ifAKCX dvCLOD&quot;]/i[@class=&quot;sc-EHOje kIWGLy&quot;]</value>
+      <webElementGuid>551d670a-7223-4638-9371-29af3cd1769f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]/div[2]/div[2]/div/div/div/div[2]/div/div/label/div/button/i</value>
+      <webElementGuid>2e03fd5a-8b8c-4c7d-8ff8-27e01b6e0f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>fa5ac3ef-5e14-4e45-b05a-d8c9b46fdfca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

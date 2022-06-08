@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_SehatQ For Corporate_sc-jzJRlG fXwot</name>
+   <tag></tag>
+   <elementGuidId>5e044657-ded2-4a72-bd0d-877e3b41a10c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/header/div/div/div[3]/div/a[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.sc-gZMcBi.sc-kAzzGY.gmzaRC.Anchor-NexLink-Function > img.sc-jzJRlG.fXwot</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a3847ed2-cdff-4290-84f0-00b6efe31c4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>SehatQ Profile</value>
+      <webElementGuid>34138bd8-28fb-409c-baaa-635d5f35a023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/public/img/icon/profile.svg</value>
+      <webElementGuid>85c21c8d-0ccd-4d15-b543-1bcabb377063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>2ffff714-4af8-4c25-a064-3dcc59815356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>30</value>
+      <webElementGuid>9bbf4997-4806-4de3-a050-1e0a5ace2935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jzJRlG fXwot</value>
+      <webElementGuid>3c024de3-c35b-4777-a17d-540f5c63499a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/header[@class=&quot;sc-htpNat sc-jKJlTe krhCOB&quot;]/div[@class=&quot;sc-kGXeez gFqONy&quot;]/div[@class=&quot;sc-dxgOiQ icuRdK&quot;]/div[@class=&quot;sc-ckVGcZ fHfuAF&quot;]/div[@class=&quot;sc-bdVaJa eItVTo&quot;]/a[@class=&quot;sc-gZMcBi sc-kAzzGY gmzaRC Anchor-NexLink-Function&quot;]/img[@class=&quot;sc-jzJRlG fXwot&quot;]</value>
+      <webElementGuid>ff3c3c14-75d8-451f-8786-5ad2d299b1ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/header/div/div/div[3]/div/a[2]/img</value>
+      <webElementGuid>da86acac-feeb-4d73-bc03-0e7cdf74a4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='SehatQ Profile']</value>
+      <webElementGuid>579abddf-6a11-44be-bd86-5f2407eb3a46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/img</value>
+      <webElementGuid>03145a61-04ff-48e0-b457-bb2b76f6338d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'SehatQ Profile' and @src = '/public/img/icon/profile.svg']</value>
+      <webElementGuid>27fdc31e-5f23-49ca-8cf6-540522673f42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

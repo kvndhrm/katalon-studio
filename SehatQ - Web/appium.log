@@ -1,0 +1,113 @@
+[35m[Appium][39m Welcome to Appium v1.22.3
+[35m[Appium][39m Non-default server args:
+[35m[Appium][39m   port: 63656
+[35m[Appium][39m   loglevel: info
+[35m[Appium][39m   tmpDir: C:\Users\kevan\AppData\Local\Temp\\Katalon\Appium\Temp1654216436301
+[35m[Appium][39m   chromedriverPort: 63657
+[35m[Appium][39m Deprecated server args:
+[35m[Appium][39m   [31m--chromedriver-port[39m => --default-capabilities
+[35m[Appium][39m Default capabilities, which will be added to each request unless overridden by desired capabilities:
+[35m[Appium][39m   chromedriverPort: 63657
+[35m[Appium][39m Appium REST http interface listener started on 0.0.0.0:63656
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/status [39m[32m200[39m [90m39 ms - 68[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/status [39m[32m200[39m [90m2 ms - 68[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session[39m
+[35m[HTTP][39m [90m{"desiredCapabilities":{"app":"C:\\Users\\kevan\\Downloads\\SehatQ Doctor Consultation_v3.1.0_apkpure.com.apk","noReset":true,"deviceName":"Xiaomi Mi A2 Lite (Android 9)","fullReset":false,"platform":"ANDROID","newCommandTimeout":1800,"platformVersion":"9","automationName":"uiautomator2","autoGrantPermissions":true,"platformName":"Android","udid":"04f8fa150405","systemPort":63661},"capabilities":{"firstMatch":[{"appium:app":"C:\\Users\\kevan\\Downloads\\SehatQ Doctor Consultation_v3.1.0_apkpure.com.apk","appium:autoGrantPermissions":true,"appium:automationName":"uiautomator2","appium:deviceName":"Xiaomi Mi A2 Lite (Android 9)","appium:fullReset":false,"appium:newCommandTimeout":1800,"appium:noReset":true,"platform":"ANDROID","platformName":"android","appium:platformVersion":"9","appium:systemPort":63661,"appium:udid":"04f8fa150405"}]}}[39m
+[35m[BaseDriver][39m The following capabilities are not standard capabilities and should have an extension prefix:
+[35m[BaseDriver][39m   platform
+[35m[BaseDriver][39m   chromedriverPort
+[35m[Appium][39m Appium v1.22.3 creating new AndroidUiautomator2Driver (v1.70.1) session
+[35m[BaseDriver][39m The following capabilities were provided, but are not recognized by Appium:
+[35m[BaseDriver][39m   platform
+[35m[BaseDriver][39m Session created with session id: aa3f8d47-15cf-4cb6-8ec8-171a64231d6c
+[35m[BaseDriver][39m Using local app 'C:\Users\kevan\Downloads\SehatQ Doctor Consultation_v3.1.0_apkpure.com.apk'
+[35m[ADB][39m Found 1 'build-tools' folders under 'C:\Users\kevan\.katalon\tools\android_sdk' (newest first):
+[35m[ADB][39m     C:/Users/kevan/.katalon/tools/android_sdk/build-tools/29.0.3
+[35m[ADB][39m Using 'adb.exe' from 'C:\Users\kevan\.katalon\tools\android_sdk\platform-tools\adb.exe'
+[35m[AndroidDriver][39m Retrieving device list
+[35m[AndroidDriver][39m Using device: 04f8fa150405
+[35m[ADB][39m Using 'adb.exe' from 'C:\Users\kevan\.katalon\tools\android_sdk\platform-tools\adb.exe'
+[35m[ADB][39m Getting device platform version
+[35m[UiAutomator2][39m Relaxing hidden api policy
+[35m[ADB][39m Package name: 'com.she.sehatq'
+[35m[ADB][39m Main activity name: 'com.she.sehatq.view.intro.SplashActivity'
+[35m[ADB][39m The application at 'C:\Users\kevan\AppData\Roaming\npm\node_modules\appium\node_modules\io.appium.settings\apks\settings_apk-debug.apk' will not be cached, because the device under test has confirmed the support of streamed installs
+[35m[ADB][39m The installation of 'settings_apk-debug.apk' took 2336ms
+[35m[ADB][39m Using 'apksigner.jar' from 'C:\Users\kevan\.katalon\tools\android_sdk\build-tools\29.0.3\lib\apksigner.jar'
+[35m[ADB][39m 'C:\Users\kevan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-server\apks\appium-uiautomator2-server-v4.27.0.apk' is signed with the default certificate
+[35m[ADB][39m 'C:\Users\kevan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-server\apks\appium-uiautomator2-server-debug-androidTest.apk' is signed with the default certificate
+[35m[UiAutomator2][39m Server packages are going to be (re)installed
+[35m[UiAutomator2][39m Full packages reinstall is going to be performed
+[35m[ADB][39m io.appium.uiautomator2.server was successfully uninstalled
+[35m[ADB][39m The application at 'C:\Users\kevan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-server\apks\appium-uiautomator2-server-v4.27.0.apk' will not be cached, because the device under test has confirmed the support of streamed installs
+[35m[ADB][39m The installation of 'appium-uiautomator2-server-v4.27.0.apk' took 6664ms
+[35m[ADB][39m io.appium.uiautomator2.server.test was successfully uninstalled
+[35m[ADB][39m The application at 'C:\Users\kevan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-server\apks\appium-uiautomator2-server-debug-androidTest.apk' will not be cached, because the device under test has confirmed the support of streamed installs
+[35m[ADB][39m The installation of 'appium-uiautomator2-server-debug-androidTest.apk' took 1502ms
+[35m[ADB][39m Adding packages ["io.appium.settings","io.appium.uiautomator2.server","io.appium.uiautomator2.server.test"] to Doze whitelist
+[35m[ADB][39m 'C:\Users\kevan\Downloads\SehatQ Doctor Consultation_v3.1.0_apkpure.com.apk' is signed with a non-default certificate
+[35m[ADB][39m The application at 'C:\Users\kevan\Downloads\SehatQ Doctor Consultation_v3.1.0_apkpure.com.apk' will not be cached, because the device under test has confirmed the support of streamed installs
+[35m[ADB][39m The installation of 'SehatQ Doctor Consultation_v3.1.0_apkpure.com.apk' took 13977ms
+[35m[UiAutomator2][39m Starting UIAutomator2 server 4.27.0
+[35m[UiAutomator2][39m Using UIAutomator2 server from 'C:\Users\kevan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-server\apks\appium-uiautomator2-server-v4.27.0.apk' and test from 'C:\Users\kevan\AppData\Roaming\npm\node_modules\appium\node_modules\appium-uiautomator2-server\apks\appium-uiautomator2-server-debug-androidTest.apk'
+[35m[UiAutomator2][39m Waiting up to 30000ms for UiAutomator2 to be online...
+[35m[WD Proxy][39m socket hang up
+[35m[WD Proxy][39m socket hang up
+[35m[WD Proxy][39m socket hang up
+[35m[WD Proxy][39m socket hang up
+[35m[WD Proxy][39m socket hang up
+[35m[WD Proxy][39m socket hang up
+[35m[WD Proxy][39m Determined the downstream protocol as 'W3C'
+[35m[AndroidDriver][39m Screen already unlocked, doing nothing
+[35m[UiAutomator2][39m Starting 'com.she.sehatq/com.she.sehatq.view.intro.SplashActivity and waiting for 'com.she.sehatq/com.she.sehatq.view.intro.SplashActivity'
+[35m[Appium][39m New AndroidUiautomator2Driver session created successfully, session aa3f8d47-15cf-4cb6-8ec8-171a64231d6c added to master session list
+[35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[32m200[39m [90m43637 ms - 1308[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c [39m[32m200[39m [90m29 ms - 1262[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c [39m[32m200[39m [90m25 ms - 1262[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/status[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/status [39m[32m200[39m [90m1 ms - 68[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mPOST[39m [37m/wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c/timeouts[39m
+[35m[HTTP][39m [90m{"implicit":60000}[39m
+[35m[HTTP][39m [37m<-- POST /wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c/timeouts [39m[32m200[39m [90m2 ms - 14[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c/source[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[W3C (aa3f8d47)][39m Driver proxy active, passing request on via HTTP proxy
+[35m[WD Proxy][39m Replacing sessionId 264f1dfe-8b84-4424-9717-518b2350c61d with aa3f8d47-15cf-4cb6-8ec8-171a64231d6c
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c/source [39m[32m200[39m [90m409 ms - 3140[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c/screenshot[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c/screenshot [39m[32m200[39m [90m2500 ms - 2025066[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c/source[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[W3C (aa3f8d47)][39m Driver proxy active, passing request on via HTTP proxy
+[35m[WD Proxy][39m Replacing sessionId 264f1dfe-8b84-4424-9717-518b2350c61d with aa3f8d47-15cf-4cb6-8ec8-171a64231d6c
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c/source [39m[32m200[39m [90m845 ms - 7530[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c/screenshot[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m<-- GET /wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c/screenshot [39m[32m200[39m [90m929 ms - 226364[39m
+[35m[HTTP][39m [90m[39m
+[35m[HTTP][39m [37m-->[39m [37mDELETE[39m [37m/wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c[39m
+[35m[HTTP][39m [90m{}[39m
+[35m[Appium][39m Removing session aa3f8d47-15cf-4cb6-8ec8-171a64231d6c from our master session list
+[35m[UiAutomator2][39m Restoring hidden api policy to the device default configuration
+[35m[HTTP][39m [37m<-- DELETE /wd/hub/session/aa3f8d47-15cf-4cb6-8ec8-171a64231d6c [39m[32m200[39m [90m495 ms - 14[39m
+[35m[HTTP][39m [90m[39m

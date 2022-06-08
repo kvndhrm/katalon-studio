@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Alamat</name>
+   <tag></tag>
+   <elementGuidId>f7560aa2-b499-4523-992b-daf8c1561539</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[2]/div[2]/div[2]/div/div/div/div[8]/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.sc-jtRfpW.ccgJVV > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>577b8ffb-e4d0-4bdf-8315-70ca628786f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alamat</value>
+      <webElementGuid>8822bc43-9f52-463e-87c7-bfe2dca47976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sc-htpNat gIgHYH&quot;]/div[@class=&quot;sc-kGXeez bhTbbt&quot;]/div[@class=&quot;sc-dxgOiQ fHkFff&quot;]/div[@class=&quot;sc-ckVGcZ oGkLh&quot;]/div[@class=&quot;sc-dxgOiQ hTWzHs&quot;]/div[@class=&quot;sc-ckVGcZ ecObdJ&quot;]/div[@class=&quot;sc-htpNat mZALI&quot;]/div[@class=&quot;sc-htpNat jHFyUa&quot;]/div[@class=&quot;sc-htpNat fpKDVR&quot;]/div[@class=&quot;sc-htpNat hwkvNk&quot;]/label[@class=&quot;sc-jtRfpW ccgJVV&quot;]/span[1]</value>
+      <webElementGuid>2d1b7791-7ae1-4032-acf5-47348c31d0d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]/div[2]/div[2]/div/div/div/div[8]/label/span</value>
+      <webElementGuid>29dca554-54d1-4673-af39-486e286e68f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::span[1]</value>
+      <webElementGuid>64bfda2d-6f5a-4ae7-8e4b-1cedc77435a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verify'])[1]/following::span[2]</value>
+      <webElementGuid>2301e421-1038-49d4-9b8f-4aa2891f13f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verifikasi Data Diri'])[1]/preceding::span[1]</value>
+      <webElementGuid>ffda70df-3d72-49e8-9802-a9beb78d5796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nikmati beragam kemudahan dari SehatQ untuk kamu yang sudah terverifikasi.'])[1]/preceding::span[2]</value>
+      <webElementGuid>b050f1a6-ef5d-4793-b094-98269825508e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alamat']/parent::*</value>
+      <webElementGuid>2a2bba37-15a1-4569-a8c6-7f5ebbe3a749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/label/span</value>
+      <webElementGuid>0a772d86-ea98-4bf0-81e2-8c3a27516edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Alamat' or . = 'Alamat')]</value>
+      <webElementGuid>ebe269e8-3eee-4a3e-bd09-4762b5da7c18</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

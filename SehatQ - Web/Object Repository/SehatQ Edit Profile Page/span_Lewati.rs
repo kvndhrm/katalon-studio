@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Lewati</name>
+   <tag></tag>
+   <elementGuidId>9706859a-fdb9-4f79-96e5-0ce2e3290087</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div[2]/div/div[6]/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.sc-gZMcBi.dceyQg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e115b747-9ab1-42c9-bffc-61eb81de3296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-gZMcBi dceyQg</value>
+      <webElementGuid>a2902ec4-c5e9-431a-ab7c-1a9602d69d0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lewati</value>
+      <webElementGuid>72a51653-a527-4041-a828-1ba80532dae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;sc-htpNat gIgHYH&quot;]/div[@class=&quot;sc-kGXeez bhTbbt&quot;]/div[@class=&quot;sc-htpNat kaxiBf&quot;]/div[@class=&quot;sc-dxgOiQ fHkFff&quot;]/div[@class=&quot;sc-ckVGcZ bOKctj&quot;]/div[@class=&quot;sc-htpNat bVKEkZ&quot;]/div[@class=&quot;sc-htpNat hJzUjQ&quot;]/div[@class=&quot;sc-htpNat fjMJVd&quot;]/a[@class=&quot;sc-gZMcBi sc-kAzzGY fwdLpO sc-ifAKCX ddZmzG&quot;]/span[@class=&quot;sc-gZMcBi dceyQg&quot;]</value>
+      <webElementGuid>969272c5-0789-41c2-9fee-01f761e24612</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div[2]/div/div[6]/div[2]/a/span</value>
+      <webElementGuid>af8ed6a2-76f5-4510-9687-1e0f492211e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjut'])[1]/following::span[1]</value>
+      <webElementGuid>dc8f7228-b389-47aa-85d0-a010800b4ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. Identitas'])[1]/following::span[1]</value>
+      <webElementGuid>03757978-d05d-4d55-b8a3-6e89159a2bfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Langganan Newsletter'])[1]/preceding::span[1]</value>
+      <webElementGuid>350f98e9-258d-4193-b3cc-2188e9ba2876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perempuan'])[1]/preceding::span[1]</value>
+      <webElementGuid>f83630c4-0f6d-4bb8-9125-61486da1c030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lewati']/parent::*</value>
+      <webElementGuid>cd9abc02-f837-4c18-b9b7-b6075b032b26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>f2d35455-cc28-4fbd-b312-4610e549c0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Lewati' or . = 'Lewati')]</value>
+      <webElementGuid>99e4b3ba-d9ba-400f-bd91-c1c4af8b4231</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
